@@ -1,3 +1,7 @@
 This is the first push
 
+<<<<<<< HEAD
 This is the second edit to this file
+=======
+
+>>>>>>> a7e615dd19307e0b7b461fa9d85a38c2e39bc653
